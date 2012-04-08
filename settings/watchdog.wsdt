@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>watchdog/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>271</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>26</ColumnWidth0><ColumnWidth1>1388</ColumnWidth1><ColumnWidth2>370</ColumnWidth2><ColumnWidth3>92</ColumnWidth3></Build>
+    <Find-in-Files><ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-14563-17757</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>watchdog</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-9190-25431</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-18383-20858</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 5.4\avr\doc\infocenter\index.ENU.html</Filename></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\TerminalDriver.h</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>1219</SelStart><SelEnd>1226</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\menu.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>169</SelStart><SelEnd>169</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\checkstatesignals.c</Filename><XPos>0</XPos><YPos>96</YPos><SelStart>2917</SelStart><SelEnd>2917</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\types.h</Filename><XPos>0</XPos><YPos>75</YPos><SelStart>1589</SelStart><SelEnd>1599</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\checkstatesignals.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>543</SelStart><SelEnd>543</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\OWIHighLevelFunctions.c</Filename><XPos>0</XPos><YPos>3</YPos><SelStart>941</SelStart><SelEnd>973</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\TerminalDemo.c</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>1741</SelStart><SelEnd>1741</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\configpin.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>144</SelStart><SelEnd>191</SelEnd></Tab><ActiveTab>8</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\configpin.h</Filename><XPos>0</XPos><YPos>13</YPos><SelStart>852</SelStart><SelEnd>1094</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\timer.c</Filename><XPos>0</XPos><YPos>52</YPos><SelStart>3202</SelStart><SelEnd>3202</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\menu.c</Filename><XPos>0</XPos><YPos>339</YPos><SelStart>8535</SelStart><SelEnd>8535</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\events.c</Filename><XPos>0</XPos><YPos>86</YPos><SelStart>2612</SelStart><SelEnd>2612</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\events.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>131</SelStart><SelEnd>138</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\common_files\OWIcrc.c</Filename><XPos>0</XPos><YPos>72</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\vars.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>367</SelStart><SelEnd>376</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\vars.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>534</SelStart><SelEnd>542</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\i2c_eeprom.c</Filename><XPos>0</XPos><YPos>69</YPos><SelStart>4359</SelStart><SelEnd>4359</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\i2c_eeprom.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-004c8830><key>iaridepm.enu1</key></Toolbar-004c8830></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>675</Bottom><Right>366</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>104167</sizeHorzCX><sizeHorzCY>181818</sizeHorzCY><sizeVertCX>191667</sizeVertCX><sizeVertCY>615455</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>377</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>379</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>344545</sizeHorzCY><sizeVertCX>104167</sizeVertCX><sizeVertCY>181818</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

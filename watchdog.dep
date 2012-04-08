@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>953962485</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\checkstatesignals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\TerminalDemo.r90</file>
+      <file>$PROJ_DIR$\command.c</file>
+      <file>$PROJ_DIR$\checkstatesignals.c</file>
+      <file>$PROJ_DIR$\command.h</file>
+      <file>$PROJ_DIR$\configpin.c</file>
+      <file>$PROJ_DIR$\configpin.h</file>
+      <file>$PROJ_DIR$\delay.c</file>
+      <file>$PROJ_DIR$\delay.h</file>
+      <file>$PROJ_DIR$\events.c</file>
+      <file>$PROJ_DIR$\events.h</file>
+      <file>$PROJ_DIR$\i2c_eeprom.c</file>
+      <file>$PROJ_DIR$\i2c_eeprom.h</file>
+      <file>$PROJ_DIR$\menu.c</file>
+      <file>$PROJ_DIR$\menu.h</file>
+      <file>$PROJ_DIR$\OWIBitFunctions.h</file>
+      <file>$PROJ_DIR$\common_files\OWIcrc.c</file>
+      <file>$PROJ_DIR$\common_files\OWIcrc.h</file>
+      <file>$PROJ_DIR$\common_files\OWIdefs.h</file>
+      <file>$PROJ_DIR$\OWIHighLevelFunctions.c</file>
+      <file>$PROJ_DIR$\common_files\OWIDeviceSpecific.h</file>
+      <file>$PROJ_DIR$\OWIHighLevelFunctions.h</file>
+      <file>$PROJ_DIR$\OWIPolled.h</file>
+      <file>$PROJ_DIR$\OWISWBitFunctions.c</file>
+      <file>$PROJ_DIR$\TerminalDemo.c</file>
+      <file>$PROJ_DIR$\TerminalDriver.c</file>
+      <file>$PROJ_DIR$\TerminalDriver.h</file>
+      <file>$PROJ_DIR$\timer.c</file>
+      <file>$PROJ_DIR$\timer.h</file>
+      <file>$PROJ_DIR$\types.h</file>
+      <file>$PROJ_DIR$\uart_addon.c</file>
+      <file>$PROJ_DIR$\uart_addon.h</file>
+      <file>$PROJ_DIR$\usart.c</file>
+      <file>$PROJ_DIR$\usart.h</file>
+      <file>$PROJ_DIR$\vars.c</file>
+      <file>$PROJ_DIR$\vars.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\watchdog.d90</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart_addon.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\TerminalDriver.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\watchdog.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\vars.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\usart.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\TerminalDemo.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\clib\ctype.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdbool.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart_addon.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\vars.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\iom32.h</file>
+      <file>$TOOLKIT_DIR$\inc\ioavr.h</file>
+      <file>$TOOLKIT_DIR$\inc\bitdefinitions\iom32.inc</file>
+      <file>$TOOLKIT_DIR$\inc\iomacro.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\pgmspace.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\OWIHighLevelFunctions.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\OWISWBitFunctions.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\menu.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\menu.r90</file>
+      <file>$TOOLKIT_DIR$\src\template\cfgm32.xcl</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl3s-ec_mul-sf.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\command.r90</file>
+      <file>$TOOLKIT_DIR$\src\template\cfg3soim.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\configpin.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\command.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\delay.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\configpin.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\OWIcrc.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\delay.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\OWIcrc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\events.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\events.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\OWISWBitFunctions.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\checkstatesignals.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\i2c_eeprom.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\TerminalDriver.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\i2c_eeprom.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\checkstatesignals.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\OWIHighLevelFunctions.r90</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\command.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 67</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 14 35 29 28 52 51 54 53 56 6 8</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 4 14 35 29 28 52 51 54 53 56 6 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\checkstatesignals.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 79</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52 51 54 53 0 29 22 18 20 21 49 58 15 17 35 6 28 56</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 52 51 54 53 0 29 22 18 20 21 49 58 15 17 35 6 28 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\configpin.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 52 51 54 53 56 35 29</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 6 52 51 54 53 56 35 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\delay.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 71</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 56</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 8 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\events.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 77</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10 17 6 52 51 54 53 35 29</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 10 17 6 52 51 54 53 35 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\i2c_eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 82</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\menu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 64</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 35 29 26 52 51 54 53 56 33 49 58 62 61 55 45 44 57</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 14 35 29 26 52 51 54 53 56 33 49 58 62 61 55 45 44 57</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\common_files\OWIcrc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 73</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 18</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 17 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\OWIHighLevelFunctions.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 84</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 49 58 15 18 22 20 17</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 21 49 58 15 18 22 20 17</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\OWISWBitFunctions.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22 18 20 52 51 54 53 56 15</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 22 18 20 52 51 54 53 56 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TerminalDemo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 49 58 52 51 54 53 56 29 33 6 26 4 14 35 28 0 22 18 20 21 15 17 10</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 57 49 58 52 51 54 53 56 29 33 6 26 4 14 35 28 0 22 18 20 21 15 17 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TerminalDriver.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57 49 58 29 35 26 52 51 54 53 56 33</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 57 49 58 29 35 26 52 51 54 53 56 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52 51 54 53 56 28 6</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 52 51 54 53 56 28 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\uart_addon.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62 61 58 55 49 52 51 54 53 56 33</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 62 61 58 55 49 52 51 54 53 56 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52 51 54 53 33 29 35</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 52 51 54 53 33 29 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\vars.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 35</file>
+        </tool>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 29 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\watchdog.d90</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 65 68 84 78 73 1 39 79 67 69 71 77 64 38 37 42 41 66</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\watchdog.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 59 60 75 43 81 83 70 72 74 76 80 63 46 48 47 50</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

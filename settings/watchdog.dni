@@ -1,0 +1,9 @@
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\types.h}.38.1@1" 1 0 0 0 "" 0 ""
+Count=1
+[Aliases]
+Count=0
+SuppressDialog=0
+[TraceHelper]
+Enabled=0
+ShowSource=1
